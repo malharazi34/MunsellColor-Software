@@ -15,7 +15,7 @@ public class HarmoniousColors
 	private double value;
 
 	/**
-	 *
+	 * Constructor that takes in a MunsellColor and converts it to its RGB values
 	 * @param munsell Harmonious colors will be calculated according to this munsell
 	 *                color
 	 */
@@ -66,7 +66,7 @@ public class HarmoniousColors
 	}
 
 	/**
-	 *
+	 * Calculates the complementary color of the Munsell Color
 	 * @return comp MunsellColor object of the complementary color
 	 */
 	public MunsellColor getComplementary()
