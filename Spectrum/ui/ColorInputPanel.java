@@ -15,7 +15,7 @@ import javax.swing.JTextField;
 /**
  * A Panel to use to input a MunsellColor when one is needed.
  *
- * @author Ryan McCubbin
+ * @author Ryan McCubbin, Mohammed Al-Harazi
  *
  */
 public class ColorInputPanel extends JPanel
