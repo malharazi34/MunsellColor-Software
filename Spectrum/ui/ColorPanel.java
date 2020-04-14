@@ -10,7 +10,7 @@ import javax.swing.JPanel;
  * A class representing a rectangle of a certain color along with that color's
  * label on it.
  *
- * @author Ryan McCubbin
+ * @author Ryan McCubbin, Mohammed Al-Harazi
  *
  */
 public class ColorPanel extends JPanel
