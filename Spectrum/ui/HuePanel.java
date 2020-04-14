@@ -8,7 +8,7 @@ import javax.swing.JPanel;
 /**
  * The panel for the hue rendering function.
  *
- * @author Ryan McCubbin, Abdulshaid Alibekov
+ * @author Ryan McCubbin, Abdulshaid Alibekov, Mohammed Al-Harazi
  *
  */
 public class HuePanel extends JPanel
