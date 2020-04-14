@@ -10,7 +10,7 @@ import javax.swing.JFrame;
  * The main class for Spectrum. Hopefully, this shouldn't have to be edited all
  * that much.
  *
- * @author Ryan McCubbin, Gianna Casolara
+ * @author Ryan McCubbin, Gianna Casolara, Mohammed Al-Harazi
  *
  */
 
